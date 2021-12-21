@@ -36,9 +36,15 @@ of life and to fix broken link routers, we knew there would have to be some work
 something that the three of us had limited experience with, we spent some time tryign to learn its formating. Due to this we made little progress, though progress we made nonetheless.
 After looking around, our groupmates found documentation pertaining to the formating of Vue code and we should be able to preceed with more changes.
 
-As far as the scope fo the project goes, there may have to be some changes. Despite the fact that the three of us are fairly unfamiliar with Vue code format,
+As far as the scope of the project goes, there may have to be some changes. Despite the fact that the three of us are fairly unfamiliar with Vue code format,
 the code of the frontend itself is quite broken. There are numerous routing functionalites that just aren't implemented, and half of entire files can be compeltely commented out
 for reasons unknown. While the goal of our group was to fix the routing issues, we weren't quite prepared for the code we came across to actually be broken to this extent.
 No wonder there are so many issues with the navigation, the routing in off itself os broken. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+December 17 2021
+
+The sprint is basically done. We were able to fix the routing issues present in the front end of the augur application and even added some quality of life. Specifically an about page,
+that tells the user what each page is and how to use it. There were some aspects fo the front end that we weren't able to get into to, such as changing the time frame of the charts present
+in the insights tab. Aside from that though, the changes we were able to make despite our collective lack of expereince with Vue was quite impressive to see fullfilled.
